@@ -105,7 +105,7 @@ With the <a href="/en/bitcoin-price/">Bitcoin price</a> so volatile many people 
 <li><a href="https://www.kraken.com/">Kraken</a> - The largest European exchange with same-day SEPA</li>
 </ul>
 <p><h3>How To Earn Bitcoins</h3>
-Many people find that the best way to get bitcoins is to accept them as payment for the products or services they already sell. Just give your customers the option to pay in bitcoin.</p>
+Many people find that the best way to get bitcoins is to accept them as payment for the products or services they already sell. Just give your customers the option to pay in bitcoin. Freelancers and Bloggers have particularly found success working for bitcoin because they're able to accept payment for work done on websites with servers in any country; it constitutes a borderless payment system.</p>
 <p>To make it easy, you may want to sign up for a bitcoin merchant account which allows you to send invoices and integrate bitcoin payments into your order pages for the most popular online shopping cart systems.</p>
 <ul>
 <li><a href="/en/get-free-bitcoins/">WeUseCoins Bitcoin Faucet</a> - Get free bitcoins that are provided by sponsors</li>
